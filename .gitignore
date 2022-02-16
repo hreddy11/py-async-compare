@@ -1,0 +1,6 @@
+__pypackages__
+__pycache__
+.pdm.toml
+pdm.lock
+pyproject.toml
+.DS_Store
