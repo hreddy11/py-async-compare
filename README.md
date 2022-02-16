@@ -1,7 +1,7 @@
-## This is to benchmark and choose which framework performs better (scalability is at hand)
+## This is to benchmark and choose which framework performs better (**scalability** is at hand)
 
--> This task is to make simple webapp to retrieve records from postgres-db
--> application can be async but db interactions are handled in sync
+* This task is to make simple webapp to retrieve records from postgres-db
+* application can be async but db interactions are handled in sync
 
 <img src="./plan.svg">
 
