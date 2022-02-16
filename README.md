@@ -6,8 +6,12 @@
 <img src="./plan.svg">
 
 #### TESTS - RESULTS
-K6 -- Sanic outperformed below python frameworks in prima-facie tests till now
-Apache Bench(ab) -- Sanic outperformed below python frameworks in prima-facie tests till now
+* K6 -- Sanic outperformed below python frameworks in prima-facie tests till now (script is in /tests folder)
+* Apache Bench(ab) -- Sanic outperformed below python frameworks in prima-facie tests till now
+example of ab tests
+```
+ab -n 10000 -c 10 -k http://0.0.0.0:3000/
+```
 
 Results will be uploaded later
 
