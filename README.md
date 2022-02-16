@@ -3,6 +3,8 @@
 -> This task is to make simple webapp to retrieve records from postgres-db
 -> application can be async but db interactions are handled in sync
 
+<img src="./plan.svg">
+
 #### TESTS - RESULTS
 K6 -- Sanic outperformed below python frameworks in prima-facie tests till now
 Apache Bench(ab) -- Sanic outperformed below python frameworks in prima-facie tests till now
